@@ -1,0 +1,13 @@
+.table{
+  background-color: rgba(61, 61, 206, 0.432);  
+}
+input[ type="text"],[ type="password"],[ type="email"]{
+    background-color: rgba(61, 61, 206, 0.432);  
+ 
+}
+.b{
+    margin-left: 500px;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
